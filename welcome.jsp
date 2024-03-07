@@ -21,7 +21,7 @@
                 <li><strong>Last Name:</strong> <%= lastName %></li>
                 <li><strong>ID:</strong> <%= id %></li>
                 <li><strong>Phone Number:</strong> <%= phoneNumber %></li>
-                <li><strong>Age:</strong> <%= age %></li>
+                <li><strong>grade:</strong> <%= age %></li>
             </ul>
     <%
         } else {
